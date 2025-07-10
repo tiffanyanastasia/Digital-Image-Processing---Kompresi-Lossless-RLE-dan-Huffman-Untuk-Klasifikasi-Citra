@@ -48,7 +48,7 @@ Perbedaan antara akurasi pelatihan dan validasi yang semakin kecil menunjukkan b
 | Rio Alvein Hasana           | alveinrio@apps.ipb.ac.id           |
 | Tiffany Anastasia Jocelyn  | tiffanyanastasia@apps.ipb.ac.id    |
 
-
+### The full dataset with images is hosted on Kaggle. Follow the link to download the complete dataset, https://www.kaggle.com/datasets/keithpinson/butterfly-mimics-2022.
 
 
 
